@@ -4,7 +4,7 @@ export default {
   // Theme and other configurations
   title: 'TNP Trip Prediction',
   titleTemplate: '%s - TNP Trip Prediction',
-  favicon: '/img/favicon.svg',
+  favicon: '/img/favicon.png',
   drawings: {
     persist: true,
   },
