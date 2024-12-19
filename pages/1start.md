@@ -3,6 +3,8 @@ theme: seriph
 class: text-center
 layout: cover
 background: 'https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80'
+title: '网约车需求量模型构建'
+favicon: '/favicon.svg'
 ---
 
 <style>
